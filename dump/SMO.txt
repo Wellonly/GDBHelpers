@@ -1,0 +1,40 @@
+SMO:
+{
+<QTreeWidgetItem> = {<No data fields>}, 
+Key = 168, 
+deviceInfo = {wp = {d = 0x6ffb20, value = 0x82dfa0}}, 
+plugin = {wp = {d = 0x0, value = 0x0}}, 
+expandedWidget = 0x0, 
+collapsedWidget = 0x81c330, 
+MainStatusCode = msg_Success, 
+ExtendedStatusCode = {d = {data = {c = -128 '\200', uc = 128 '\200', s = 2176, sc = -128 '\200', us = 2176, i = -159446912, u = 4135520384, l = 140737328908416, ul = 140737328908416, b = 128, d = 6.9533479301108489e-310, f = -1.29317197e+33, real = 6.9533479301108489e-310, ll = 140737328908416, ull = 140737328908416, o = 0x7ffff67f0880 <QArrayData::shared_null>, ptr = 0x7ffff67f0880 <QArrayData::shared_null>, shared = 0x7ffff67f0880 <QArrayData::shared_null>}, type = 10, is_shared = 0, is_null = 0}}, 
+IsAccessSuccessful = true, 
+VirtualKey = 0, 
+VirtualParent = 0x0, 
+TargetValue = 0x0, 
+TargetMemory = 0x0, 
+TargetAccessTime = {d = {d = 0x81b940}}, 
+TargetAnswerTime = {d = {d = 0x82e0b0}}, 
+Tag = {d = {data = {c = 0 '\000', uc = 0 '\000', s = 0, sc = 0 '\000', us = 0, i = 0, u = 0, l = 0, ul = 0, b = false, d = 0, f = 0, real = 0, ll = 0, ull = 0, o = 0x0, ptr = 0x0, shared = 0x0}, type = 0, is_shared = 0, is_null = 1}}, 
+InviteStr = {static MaxSize = 1073741800, d = 0x81a6c0}, 
+static ShortNameDelimeters = {static null = {<No data fields>}, d = 0x680ba0}, 
+static SmoControl_Help_code = 0, 
+Record = {
+ {
+  {HeadByte = {{IsDataToFlash = 0 '\000', IsCallObject = 1 '\001', IsName24 = 0 '\000', IsParentToFlash = 0 '\000', PKeyL = 0 '\000'}, 
+  {PointerType = FolderPointer}, 
+  {HeadType = Folder}, 
+  all = 2 '\002'}, 
+ PKeyH = 0 '\000'}, 
+ ParentKey = 2}, 
+ Security = {{User = FullAccess, PowerUser = FullAccess, Owner = FullAccess, Tuner = FullAccess}, all = 170 '\252'}, 
+ Type = {DataType = Void, {DataLength = 0 '\000', IsUnSigned = 0 '\000', IsBit = 0 '\000', IsControl = 0 '\000', IsString = 0 '\000'}, {{BitPositionInDWord = 0 '\000', Bit_gc = 0 '\000'}, {BitPositionInByte = 0 '\000', BitByteOffset = 0 '\000'}}, {ControlInterface = 0 '\000', Control_gc = 0 '\000'}, {StringLength = 0 '\000'}, all = 0 '\000'}, 
+ Data = {
+  Folder = {FolderMethodAddress = 585, {{CKeyL = 189 '\275', CKeyH = 0 '\000'}, {FolderType = 5 '\005', IsChildKeyFlash = 1 '\001', CKeyLAddrBits = 11 '\v', CKeyHAddrByte = 0 '\000'}, ChildKey = 189}}, 
+  {DataAddress = 585, DataParameter = 189}, 
+  {MethodAddress = 585, MethodParameter = 189}, 
+  MemAddress = {{WordL = {{L = 73 'I', H = 2 '\002'}, U16LH = 585}, WordH = {{L = 189 '\275', H = 0 '\000'}, U16LH = 189}}, 
+   Int32Address = 12386889, UInt32Address = 12386889, IntLH = 12386889, UintLH = 12386889}}, 
+ RecordName = "USARTD20", '\000' <repeats 15 times>}, 
+ParentSmo = 0x710c90
+} 

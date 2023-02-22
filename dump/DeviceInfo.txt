@@ -1,0 +1,13 @@
+DeviceInfo: 
+{ <QObject> = {<No data fields>}, 
+  DeviceSmo = 0x81e1b0, 
+  ParentSMO = 0x81e1b0, 
+  FirstSmoKey = 168, 
+  UserKey = 129, 
+  UserName = {static null = {<No data fields>}, d = 0x7ffff67f0880 <QArrayData::shared_null>}, 
+  UserGroup = 0, 
+  NETPath = {static MaxSize = 1073741800, d = 0x7ffff67f0880 <QArrayData::shared_null>}, 
+  portData = 0x710ea0, 
+  deviceName = {static null = {<No data fields>}, d = 0x81dd00}, 
+  userGroupShifter = 176
+} <gdbbridge.Dumper instance at 0x... > 
