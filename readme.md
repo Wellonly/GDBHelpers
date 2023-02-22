@@ -12,8 +12,8 @@ To see definition of data structures used in this project refer to my projects:
 - [Tree Device Interface builder](https://github.com/Wellonly/TDIBuilder)
 
 See also useful links:
-QT [QT Creator](https://www.qt.io/)
-GDB online docs: [Debugging witth GDB](https://sourceware.org/gdb/current/onlinedocs/gdb)
-Additional example: [GDB helper scripts](https://github.com/tromey/gdb-helpers)
+- QT [QT Creator](https://www.qt.io/)
+- GDB online docs: [Debugging witth GDB](https://sourceware.org/gdb/current/onlinedocs/gdb)
+- Additional example: [GDB helper scripts](https://github.com/tromey/gdb-helpers)
 
 MIT License Copyright (c) 2023 Well <github.com/Wellonly>
